@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Scripts\TerrainScript.cs">
+    <Files>
+      <File FileName="Assets\Code\Scripts\EnemyTank.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Scripts\TankMovement.cs" Line="97" Column="6" />
+      <File FileName="Assets\Code\Scripts\TerrainScript.cs" Line="28" Column="4" />
+      <File FileName="Assets\Code\Scripts\CanonFire.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
